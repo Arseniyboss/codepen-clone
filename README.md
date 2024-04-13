@@ -1,8 +1,8 @@
-# Codepen Clone
+# CodePen Clone
 
 ## Description
 
-Codepen clone built with React
+CodePen clone built with React
 
 ## Technologies
 
