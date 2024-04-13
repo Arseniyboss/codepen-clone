@@ -3,7 +3,7 @@ import { Dispatch, SetStateAction } from 'react'
 import { EditorView } from '@codemirror/view'
 import { atomone } from '@uiw/codemirror-theme-atomone'
 import { EditorContainer, EditorName } from './styles'
-import { extensions } from './utils'
+import { extensions } from '@/utils'
 
 type Props = {
   language: keyof typeof extensions
