@@ -7,5 +7,5 @@ export const EditorSection = styled.section`
   gap: var(--spacing);
   padding: var(--spacing);
   background: #3c3e44;
-  overflow-x: scroll;
+  overflow-x: auto;
 `

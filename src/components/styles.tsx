@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const EditorContainer = styled.div`
-  overflow-y: scroll;
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
   border-radius: 0.5rem;
